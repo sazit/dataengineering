@@ -1,0 +1,8 @@
+# File: azure-pipelines.yml
+
+jobs:
+- job: Windows
+  pool:
+    vmImage: 'windows-latest'
+  steps:
+  - template: cicd/jobs/deploy-adf.yml
