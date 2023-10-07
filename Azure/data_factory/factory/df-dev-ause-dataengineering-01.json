@@ -1,0 +1,9 @@
+{
+	"name": "df-dev-ause-dataengineering-01",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad0aa4aa-7a0e-42c6-bed4-aeb4e6493e9e",
+		"tenantId": "2ef8b356-b283-4613-9d63-cb5b668e0cab"
+	}
+}
