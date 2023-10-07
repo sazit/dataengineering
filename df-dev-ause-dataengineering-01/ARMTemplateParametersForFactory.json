@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "df-dev-ause-dataengineering-01"
+		},
+		"AzureDataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://sadevausedataeng01.dfs.core.windows.net/"
+		},
+		"RestServiceWeather_properties_typeProperties_url": {
+			"value": "https://api.open-meteo.com/v1/forecast?latitude=33.86&longitude=151.02&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m"
+		}
+	}
+}
