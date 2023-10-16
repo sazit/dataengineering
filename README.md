@@ -1,25 +1,30 @@
-# dataengineering
+# a dataengineering portfolio
 A repo consisting of multiple code segments relating to a data engineering tech stack
-# Project Name
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Code Quality](https://img.shields.io/badge/code%20quality-A-blue)
+![Code Quality](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Introduction
-- Brief description of the project.
+- There are multiple folders in this repo spanning from simple SQL queries to IaC using Terraform to ETL pipelines in Azure Data Factory.
+- It's a WIP so updates are being made slowly but surely
+- Any tips on data engineering related learnings would always be appreciated.
 
-## Features
-- List of features.
+## Technologies Include
+- SQL
+- Python/PySpark
+- Azure
+- AWS
+- Terraform
+- Scala
+- HDFS
+- Golang
+- Kakfa
 
-## Technologies Used
-- Programming languages, frameworks, libraries.
-
-## Prerequisites
-- What you need to install.
-
-## Installation
+## CLoning
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
-npm install
+git clone https://github.com/sazit/dataengineering.git
+cd dataengineering
+```
+
+Happy to hear from you, please contact me via my github contact form on [sazit.github.io/contact](https://sazit.github.io/contact.html)
