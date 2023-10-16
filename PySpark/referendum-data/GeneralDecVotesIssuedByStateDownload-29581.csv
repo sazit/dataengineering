@@ -1,0 +1,11 @@
+2023 Referendum Declaration Votes Issued By State [Please Note: These results are not final. Event:29581 Phase:PostElection Generated:2023-10-16T21:15:19 Cycle:1adc7347-4316-4308-a6b1-1fe08cde6680 Created:2023-10-16T21:15:15 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.11.168.0]
+StateAb,StateNm,Provisional,Absent,PrePoll,PrePollOwnDivision,Postal,PostalOwnDivision
+NSW,New South Wales,42748,186702,128819,7085,528832,526482
+VIC,Victoria,35514,182277,77885,4931,575531,572431
+QLD,Queensland,26302,113815,82359,4690,527242,524993
+WA,Western Australia,18015,81250,55768,2803,190876,189744
+SA,South Australia,11238,39526,32583,2906,169853,168311
+TAS,Tasmania,4183,14315,10012,614,49225,48915
+ACT,Australian Capital Territory,2007,4392,5237,504,25668,25519
+NT,Northern Territory,0,0,3390,494,6689,6677
+OS,Overseas,0,0,0,0,0,0
