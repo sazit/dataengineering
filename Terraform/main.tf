@@ -24,3 +24,9 @@ resource "azurerm_resource_group" "rg-dev-ause-dataengineering-01" {
   name     = var.resource_group_name
   location = var.location
 }
+
+resource "azurerm_data_factory" "adf-dev-ause-api-integration-01" {
+  name                = "adf-dev-ause-api-integration-01"
+  location            = azurerm_resource_group.example.location
+  resource_group_name = azurerm_resource_group.example.name
+}
